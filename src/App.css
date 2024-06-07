@@ -1,0 +1,14 @@
+*{
+  font-family: cursive;
+}
+body{
+  background: #704264;
+}
+.boardDiv{
+  position: absolute;
+    top: 10rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column-reverse;
+}
